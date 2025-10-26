@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alex Johnson
+title: Gregório Fornetti Azevedo
 
 # Name pronunciation (optional)
 name_pronunciation: ''
