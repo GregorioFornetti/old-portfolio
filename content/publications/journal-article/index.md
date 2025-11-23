@@ -1,15 +1,13 @@
 ---
-title: "An example journal article"
+title: "Vulnerable road user detection and safety enhancement: A comprehensive survey"
 authors:
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2025-10-31T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-10-31T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,39 +15,28 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Expert Systems with Applications, Volume 292*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Traffic incidents involving vulnerable road users (VRUs) constitute a significant proportion of global road accidents. Advances in traffic communication ecosystems, coupled with sophisticated signal processing and machine learning techniques, have facilitated the utilization of data from diverse sensors. Despite these advancements and the availability of extensive datasets, substantial progress is required to mitigate traffic casualties. This paper provides a comprehensive survey of state-of-the-art technologies and methodologies to enhance the safety of VRUs. The study investigates the communication networks between vehicles and VRUs, emphasizing the integration of advanced sensors and the availability of relevant datasets. It explores preprocessing techniques and data fusion methods to enhance sensor data quality. Furthermore, our study assesses critical simulation environments essential for developing and testing VRU safety systems. Our research also highlights recent advances in VRU detection and classification algorithms, addressing challenges such as variable environmental conditions. Additionally, we cover cutting-edge research in predicting VRU intentions and behaviors, which is mandatory for proactive collision avoidance strategies. Through this survey, we aim to provide a comprehensive understanding of the current landscape of VRU safety technologies, identifying areas of progress and areas needing further research and development.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
+#hugoblox:
+#  ids:
+#    arxiv: 1512.04133v1
 
 links:
   - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
-  - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
+    url: https://arxiv.org/pdf/2405.19202
   - type: source
-    url: ""
-  - type: video
-    url: ""
+    url: "https://www.sciencedirect.com/science/article/abs/pii/S0957417425021487"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -73,10 +60,4 @@ projects: []
 slides: ""
 ---
 
-> [!NOTE]
-> Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). 
