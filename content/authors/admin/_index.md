@@ -54,20 +54,28 @@ profiles:
 #   - AI Ethics
 
 education:
-  - area: MS Computer Science
-    institution: Fedaral University of São Carlos (UFSCar)
+  - area: International internship
+    institution: Technische Hochschule Ingolstadt (THI)
     icon: ""
-    date_start: 2024-10-14
+    date_start: 2025-08-04
     date_end: 
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-  - area: BS Computer Science
-    institution: Fedaral University of São Carlos (UFSCar)
+      International internship in Ingolstadt, Germany. In this period, I studied autonomous driving and 3D object detection, tracking, and trajectory prediction.
+  - area: MS Computer Science
+    institution: Federal University of São Carlos (UFSCar)
     icon: ""
-    date_start: 2020
-    date_end: 2024
+    date_start: 2024-10-14
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _background filtering algorithms for 3D object detection_. Supervised by Dr. Tiago A. Almeida.
+  - area: BS Computer Science
+    institution: Federal University of São Carlos (UFSCar)
+    icon: ""
+    date_start: 2020-01-01
+    date_end: 2024-06-01
+    summary: |
+      Score: _9.33 / 10.0_
+
+      Focused on machine learning, artificial intelligence, computer vision, and data science disciplines. Conducted a undergraduate research funded by CNPQ and FAPESP.
  #   button:
 #       text: 'Read Thesis'
 #       url: 'https://example.com/thesis.pdf'
