@@ -25,7 +25,7 @@ abstract: Traffic incidents involving vulnerable road users (VRUs) constitute a 
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Computer vision
 featured: true
 
 #hugoblox:
@@ -60,4 +60,4 @@ projects: []
 slides: ""
 ---
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). 
+In this survey, I mainly contributed to the AI section of the paper. I helped select, read, and summarize the literature on VRU detection and intention prediction. I helped write the VRUs detection section of the paper and was the main author of the intention prediction section. I also helped in the extensive (various rounds) of the paper review before its acceptance.
