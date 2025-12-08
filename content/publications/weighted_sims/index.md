@@ -4,10 +4,10 @@ authors:
 - admin
 author_notes:
 - "Equal contribution"
-date: "2025-10-31T00:00:00Z"
+date: "2025-05-14T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-10-31T00:00:00Z"
+publishDate: "2025-05-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -15,7 +15,7 @@ publishDate: "2025-10-31T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*SAC '25: Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing"
+publication: "SAC '25: Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing"
 publication_short: ""
 
 abstract: In recent years, neural networks and other complex models have dominated recommender systems, often setting new benchmarks for state-of-the-art performance. Yet, despite these advancements, award-winning research has demonstrated that traditional matrix factorization methods can remain competitive, offering simplicity and reduced computational overhead. Hybrid models, which combine matrix factorization with newer techniques, are increasingly employed to harness the strengths of multiple approaches. This paper proposes a novel ensemble method that unifies user-item and item-item recommendations through a weighted similarity framework to deliver top-N recommendations. Our approach is distinctive in its use of shared user and item embeddings for both recommendation strategies, simplifying the architecture and enhancing computational efficiency. Extensive experiments across multiple datasets show that our method achieves competitive performance and is robust in varying scenarios that favor either user-item or item-item recommendations. Additionally, by eliminating the need for embedding-specific fine-tuning, our model allows for the seamless reuse of hyperparameters from the base algorithm without sacrificing performance. This results in a method that is both efficient and easy to implement. Our open-source implementation is available at https://github.com/UFSCar-LaSID/weightedsims-recommender.
